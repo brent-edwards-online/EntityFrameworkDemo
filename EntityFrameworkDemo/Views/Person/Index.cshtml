@@ -1,0 +1,10 @@
+﻿@model EntityFrameworkDemo.ViewModels.PersonViewModel
+<h1>Persons Index</h1>
+
+@foreach(var person in Model.People)
+{
+    @Html.ActionLink("Edit","Read", new { Id = @person.PersonId}) <p>@person.FirstName @person.LastName</p>
+}
+
+
+@Html.ActionLink("New Person","Create")

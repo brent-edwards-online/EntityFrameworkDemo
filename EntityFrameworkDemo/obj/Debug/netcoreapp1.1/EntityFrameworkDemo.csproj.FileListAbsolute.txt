@@ -1,0 +1,9 @@
+D:\Development\Git-Repository\EF\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\netcoreapp1.1\EntityFrameworkDemo.deps.json
+D:\Development\Git-Repository\EF\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\netcoreapp1.1\EntityFrameworkDemo.runtimeconfig.json
+D:\Development\Git-Repository\EF\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\netcoreapp1.1\EntityFrameworkDemo.runtimeconfig.dev.json
+D:\Development\Git-Repository\EF\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\netcoreapp1.1\EntityFrameworkDemo.dll
+D:\Development\Git-Repository\EF\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\netcoreapp1.1\EntityFrameworkDemo.pdb
+D:\Development\Git-Repository\EF\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\netcoreapp1.1\EntityFrameworkDemo.csprojResolveAssemblyReference.cache
+D:\Development\Git-Repository\EF\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\netcoreapp1.1\EntityFrameworkDemo.AssemblyInfo.cs
+D:\Development\Git-Repository\EF\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\netcoreapp1.1\EntityFrameworkDemo.dll
+D:\Development\Git-Repository\EF\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\netcoreapp1.1\EntityFrameworkDemo.pdb
